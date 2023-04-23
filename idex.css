@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+}
+h3{
+    color:rgb(117, 108, 98);
+    font-size: x-large;
+    padding-bottom:15px
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+input{
+    border-radius: 25px;
+}
+td{
+    font-size: large;
+    color:rgb(117, 108, 98);
+    padding:5px;
+}
+body{
+    padding: 100px 350px;
+    background-image:linear-gradient(to right, rgb(182, 169, 153), white);
+}
+div{
+    border-radius: 50px;
+    padding-top: 50px ;
+    background-color: white;
+}
+#name{
+    width: 250px;
+    height: 30px;
+    border: solid rgb(182, 169, 153);
+}
+#password{
+    width: 250px;
+    height:30px;
+    border: solid rgb(182, 169, 153);
+}
+#submit{
+    width: 150px;
+    height:30px;
+    border: solid rgb(182, 169, 153);
+    background-color: rgb(182, 169, 153);
+}
+footer{
+    font-size: small;
+    color:rgb(117, 108, 98);
+}
+
+

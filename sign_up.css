@@ -1,0 +1,64 @@
+* {
+    text-align: center;
+}
+h3{
+    color: rgb(74, 74, 74);
+    font-size: x-large;
+    padding-bottom:15px;
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+input{
+    border-radius: 25px;
+}
+td{
+    font-size: large;
+    color: rgb(74, 74, 74);
+    padding: 5px;
+}
+body{
+    padding:100px 350px;
+    background-image: linear-gradient(to right, rgb(153,153,153), white);
+}
+div{
+    border-radius:50px;
+    padding-top: 50px;
+    background-color: white;
+}
+#name{
+    width: 250px;
+    height: 30px;
+    border: solid rgb(153, 153, 153);
+}
+#pass{
+    width: 250px;
+    height:30px;
+    border: solid rgb(153, 153, 153);
+}
+#confpass{
+    width: 250px;
+    height:30px;
+    border: solid rgb(153, 153, 153);
+}
+#dob{
+    width: 250px;
+    height:30px;
+    border: solid rgb(153, 153, 153);
+}
+#email{
+    width: 250px;
+    height:30px;
+    border: solid rgb(153, 153, 153);
+}
+#submit{
+    width: 150px;
+    height:30px;
+    border: solid rgb(153, 153, 153);
+    background-color: rgb(153, 153, 153);
+}
+footer{
+    font-size: small;
+    color: rgb(153, 153, 153)
+}
