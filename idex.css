@@ -12,6 +12,8 @@ table{
 }
 input{
     border-radius: 25px;
+    font-family: 'Gamja Flower', cursive;
+    font-size:medium;
 }
 td{
     font-size: large;
@@ -21,6 +23,7 @@ td{
 body{
     padding: 100px 350px;
     background-image:linear-gradient(to right, rgb(182, 169, 153), white);
+    font-family: 'Gamja Flower', cursive;
 }
 div{
     border-radius: 50px;
@@ -47,5 +50,13 @@ footer{
     font-size: small;
     color:rgb(117, 108, 98);
 }
+a:link{
+    color:rgb(182, 169, 153);
+}
+a:hover{
+    color: rgb(117,108,98);
+    font-size:large;
+}
+
 
 
